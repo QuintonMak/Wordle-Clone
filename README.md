@@ -1,9 +1,9 @@
 # Wordle-Clone
 
-#Description
+# Description
 A clone of the popular word game "Wordle"
 
-#Play the Game
+# Play the Game
 
-#Credits
+# Credits
 Derived from the game "wordle", now owned by the New York Times. This is purely a personal and non-profit project. 
